@@ -1,5 +1,5 @@
 ##branch2
 
-x=2
+x=5
 y=3
 z=x+y
