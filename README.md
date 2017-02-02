@@ -1,2 +1,3 @@
-## LAB3
-## This might cause a merge conflict
+# LAB3
+# Courtney Solano
+#Partner: Lucas Hayne
